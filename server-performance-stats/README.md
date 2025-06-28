@@ -5,7 +5,7 @@ Getting Started
 
 Clone the repository
 
-git clone https://github.com/AMM48/devops-lab.git
+git clone https://github.com/Reyan343/devops-lab.git
 cd server-performance-stats
 
 Make the script executable
