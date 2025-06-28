@@ -6,6 +6,7 @@ Getting Started
 Clone the repository
 
 git clone https://github.com/Reyan343/devops-lab/blob/main/server-performance-stats
+
 cd server-performance-stats
 
 Make the script executable
@@ -16,4 +17,5 @@ Execute the script
 
 ./server-stats.sh
 
-This project is part of roadmap.sh DevOps projects: https://roadmap.sh/projects/server-stats
+This project is part of roadmap.sh DevOps projects 
+https://roadmap.sh/projects/server-stats
